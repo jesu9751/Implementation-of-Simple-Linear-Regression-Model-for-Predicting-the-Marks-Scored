@@ -85,7 +85,26 @@ print('Root Mean Squared Error (RMSE) =', rmse)
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+```
+   Hours  Scores
+0    2.5      21
+1    5.1      47
+2    3.2      27
+3    8.5      75
+4    3.5      30
+Last 5 rows of the dataset:
+    Hours  Scores
+20    2.7      30
+21    4.8      54
+22    3.8      35
+23    6.9      76
+24    7.8      86
+Predicted values:
+[17.04289179 33.51695377 74.21757747 26.73351648 59.68164043 39.33132858
+ 20.91914167 78.09382734 69.37226512]
+Actual values:
+[20 27 69 30 62 35 24 86 76]
+```
 
 
 ## Result:

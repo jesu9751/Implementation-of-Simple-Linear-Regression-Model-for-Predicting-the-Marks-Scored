@@ -81,12 +81,6 @@ print('Mean Squared Error (MSE) =', mse)
 print('Mean Absolute Error (MAE) =', mae)
 print('Root Mean Squared Error (RMSE) =', rmse)
 ```
-/*
-Program to implement the simple linear regression model for predicting the marks scored.
-Developed by: 
-RegisterNumber:  
-*/
-```
 
 ## Output:
 ![simple linear regression model for predicting the marks scored](sam.png)

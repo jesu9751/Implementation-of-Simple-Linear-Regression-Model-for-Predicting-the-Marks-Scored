@@ -104,10 +104,12 @@ Predicted values:
  20.91914167 78.09382734 69.37226512]
 Actual values:
 [20 27 69 30 62 35 24 86 76]
-
+```
 <img width="563" height="453" alt="image" src="https://github.com/user-attachments/assets/f72a4c3b-553b-400f-a04d-3f143089e127" />
 <img width="563" height="453" alt="image" src="https://github.com/user-attachments/assets/5dc78e00-4f6d-4872-868f-7750297f7bce" />
 
+
+```
 Mean Squared Error (MSE) = 25.463280738222547
 Mean Absolute Error (MAE) = 4.691397441397438
 Root Mean Squared Error (RMSE) = 5.046115410711743
